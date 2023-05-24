@@ -3,14 +3,14 @@ p {
 } 
 
 body {
-    background-color:rgb(153, 0, 255);
+    background-color:rgb(221, 191, 241);
 }
 
 h1 {
-    color:rgb(255, 174, 0);
+    color:rgb(71, 56, 23);
 }
     
 table, td,th {
-    color:rgb(0, 173, 241);
+    color:rgb(25, 36, 41);
     border: 1px solid;
 }
